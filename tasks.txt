@@ -1,0 +1,20 @@
+df_nasa_data['koi_pdisposition'].value_counts()
+
+
+Target Variable: koi_pdisposition
+
+0.) Data exploration (graphs etc.) (Jezu)
+
+1.)Missing Values (Maren)
+1.)Outliers (Jezu)
+
+2.)Feature Selection
+Correlation between the input variables (Jezu)
+
+2.)Treatment of mixed data types (what to do with strings)
+Check if we need to transfrom numerical variables into categorical
+	One hot encoding
+	[1,0,0,0,0] (Maren)
+	
+
+3.)Normalization/Gaussanity (Maren)
