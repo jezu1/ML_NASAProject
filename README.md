@@ -1,4 +1,5 @@
 # ML_NASAProject
+From Jezuela Gega and Maren Hoschek
 
 Our project was created on:
 - Python 3.7.6
